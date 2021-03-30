@@ -1,9 +1,12 @@
 # computering-aphorisms
-Some things I wish I'd known before starting my computering career. Inspired by [this drivel I posted on LinkedIN.](https://www.linkedin.com/posts/polleyg_some-things-i-wish-id-known-before-starting-activity-6781485314570637312-myMp)
+Sadly nspired by [this drivel I posted on LinkedIN.](https://www.linkedin.com/posts/polleyg_some-things-i-wish-id-known-before-starting-activity-6781485314570637312-myMp)
+
+Some things I wish I'd known before starting my computering career. 
 
 - Don't deploy on Fridays
 - There's no best language, except for SQL
 - Leave recursion to the experts
+- ^^ multi-treading & concurrency too
 - Good doco is harder than good code
 - Git-flow will give you nightmares
 - It's always DNS

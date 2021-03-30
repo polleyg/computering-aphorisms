@@ -1,5 +1,5 @@
 # computering-aphorisms
-Sadly nspired by [this drivel I posted on LinkedIN.](https://www.linkedin.com/posts/polleyg_some-things-i-wish-id-known-before-starting-activity-6781485314570637312-myMp)
+Sadly inspired by [this drivel I posted on LinkedIN.](https://www.linkedin.com/posts/polleyg_some-things-i-wish-id-known-before-starting-activity-6781485314570637312-myMp)
 
 Some things I wish I'd known before starting my computering career: 
 

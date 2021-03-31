@@ -9,7 +9,7 @@ Some things I wish I'd known before starting my computering career:
 - Feel confident in your deploy pipeline or fix it until you do
 - There's no best language, except for SQL
 - Leave recursion to the experts
-- ^^ multi-treading & concurrency too
+- ^^ multi-threading & concurrency too
 - Good doco is harder than good code
 - Git-flow will give you nightmares
 - It's always DNS

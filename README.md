@@ -10,6 +10,8 @@ Some things I wish I'd known before starting my computering career:
 - There's no best language, except for SQL
 - Leave recursion to the experts
 - ^^ multi-threading & concurrency too
+- and out of order messages
+- In distributed systems you should expect duplicated
 - Good doco is harder than good code
 - Git-flow will give you nightmares
 - It's always DNS
@@ -19,6 +21,7 @@ Some things I wish I'd known before starting my computering career:
 - Click-ops is perilous
 - Most algorithms already exist in libraries
 - Inheritance sucks
+- In distributed systems you should expect duplicated
 - Tech debt isn't always a bad thing
 - Don't ignore the politics
 - Tech is easy compared to people
